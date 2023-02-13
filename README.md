@@ -1,6 +1,6 @@
-# portfolio_web
+# Flutter Code of Basic-Responsive-Landing-Page-Flutter
 
-A new Flutter project.
+This is the flutter code of other repositories (https://github.com/AdnanBayu/basic-responsive-landing-page-flutter).
 
 ## Getting Started
 
